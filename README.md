@@ -1,10 +1,24 @@
 # 🧪🎲 fun Qubit
-ahhh.. a lightweight beginner-friendly quantum-computing simulator using c
+ahhh.. this is a lightweight beginner-friendly quantum-computing simulator using c
 
-### Quantum Gates
-- **Hadamard (H)**
-- **Pauli-X (X)**
-- **CNOT**
+### Quantum Gates 🧪
+#### Single-Qubit Gates
+- **Pauli-X Gate (NOT Gate)**  
+- **Pauli-Y Gate**  
+- **Pauli-Z Gate**  
+- **Hadamard Gate (H Gate)**  
+- **Phase Gate (S Gate)**  
+- **T Gate (π/4 Phase Gate)**  
+- **Identity Gate (I Gate)**  
+- **Rotation Gates**  
+  - Rx(θ)  
+  - Ry(θ)  
+  - Rz(θ)  
+
+#### Multi-Qubit Gates
+- **CNOT Gate (Controlled-NOT Gate)**  
+- **SWAP Gate**  
+- **Toffoli Gate (Controlled-Controlled-NOT)**  
 
 **start with a simple game:**
 * Start with a coin facing "heads."
