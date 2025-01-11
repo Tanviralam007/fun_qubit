@@ -32,7 +32,7 @@ A qubit in a **balanced superposition** has:
 
 ---
 
-# Probability Distribution
+## Probability Distribution
 
 ## Understanding Probability in Qubits
 When a qubit is in superposition, it has a **probability distribution** for being measured as either `0` or `1`.  
